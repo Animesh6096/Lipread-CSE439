@@ -235,4 +235,3 @@ For questions or feedback, please open an issue on the repository.
 
 ---
 
-<p align="center">Made with ❤️ for CSE439</p>
